@@ -1,0 +1,3 @@
+Practica 1
+Proponga la cantidad mínima de Layout más utilizados en HTML y desarrolle el código básico de
+cada uno, suba lo anterior a su GitHub.
