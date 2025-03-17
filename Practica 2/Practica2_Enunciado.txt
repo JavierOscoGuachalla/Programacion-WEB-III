@@ -1,0 +1,12 @@
+Practica 2
+1. Revise el siguiente sitio:
+https://www.geeksforgeeks.org/how-to-connect-to-a-mysql-database-using-the-mysql2-packagein-node-js/
+2. Experimente con las 3 formas de conexión con la base de datos:
+a. Conexión básica
+b. Conexión utilizando promesas.
+c. Conexión utilizando Pooling.
+3. Proponga una aplicación utilizando las 3 formas de conexión, compare y comente los
+resultados obtenidos (mejor si es con cifras de tiempo de ejecución). Suba al GitHub esta
+aplicación incluyendo los resultados obtenidos.
+4. La defensa de este trabajo se efectuara el miércoles 19 de marzo en el horario de clases
+(Laboratorio 1, piso 3).
